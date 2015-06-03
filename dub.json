@@ -1,0 +1,8 @@
+{
+	"name": "cybuf",
+	"description": "A circular buffer",
+	"authors": ["aceawan"],
+	"license": "GPL-3.0",
+	"dependencies": {
+	}
+}
