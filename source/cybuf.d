@@ -155,11 +155,11 @@ unittest {
 
     cb.put([1,2,3,4,5,6,7,8]);
 
-    auto daplop = retro(cb);
+    auto test_values = retro(cb);
 
     int[] test;
 
-    foreach(i; daplop){
+    foreach(i; test_values){
         test ~= i;
     }
 
